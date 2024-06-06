@@ -1,0 +1,14 @@
+C:\Users\berka\source\repos\DistanceCalculator\DistanceCalculator\bin\Debug\net8.0\DistanceCalculator.exe
+C:\Users\berka\source\repos\DistanceCalculator\DistanceCalculator\bin\Debug\net8.0\DistanceCalculator.deps.json
+C:\Users\berka\source\repos\DistanceCalculator\DistanceCalculator\bin\Debug\net8.0\DistanceCalculator.runtimeconfig.json
+C:\Users\berka\source\repos\DistanceCalculator\DistanceCalculator\bin\Debug\net8.0\DistanceCalculator.dll
+C:\Users\berka\source\repos\DistanceCalculator\DistanceCalculator\bin\Debug\net8.0\DistanceCalculator.pdb
+C:\Users\berka\source\repos\DistanceCalculator\DistanceCalculator\obj\Debug\net8.0\DistanceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\source\repos\DistanceCalculator\DistanceCalculator\obj\Debug\net8.0\DistanceCalculator.AssemblyInfoInputs.cache
+C:\Users\berka\source\repos\DistanceCalculator\DistanceCalculator\obj\Debug\net8.0\DistanceCalculator.AssemblyInfo.cs
+C:\Users\berka\source\repos\DistanceCalculator\DistanceCalculator\obj\Debug\net8.0\DistanceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\berka\source\repos\DistanceCalculator\DistanceCalculator\obj\Debug\net8.0\DistanceCalculator.dll
+C:\Users\berka\source\repos\DistanceCalculator\DistanceCalculator\obj\Debug\net8.0\refint\DistanceCalculator.dll
+C:\Users\berka\source\repos\DistanceCalculator\DistanceCalculator\obj\Debug\net8.0\DistanceCalculator.pdb
+C:\Users\berka\source\repos\DistanceCalculator\DistanceCalculator\obj\Debug\net8.0\DistanceCalculator.genruntimeconfig.cache
+C:\Users\berka\source\repos\DistanceCalculator\DistanceCalculator\obj\Debug\net8.0\ref\DistanceCalculator.dll
